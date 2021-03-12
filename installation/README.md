@@ -1,2 +1,2 @@
-## Environment Setup
+# Environment Setup
 ### Download Anaconda
