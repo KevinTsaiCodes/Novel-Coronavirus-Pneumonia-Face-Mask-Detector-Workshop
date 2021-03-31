@@ -4,14 +4,14 @@
 ### or click download zip and extract the zip file
 ![Screenshot 2021-03-31 093853](https://user-images.githubusercontent.com/53148219/113078065-fb629b00-9204-11eb-8c2a-98f25a05f5ac.png)
 
-# Environment Setup
+# Virtual Environment Setup and Downloading Anaconda
 ### Download  [Anaconda](https://www.anaconda.com/products/individual)
 ### Create venv
 ### Open Anaconda Prompt/ Anaconda Powershell Prompt (Windows)
     conda create --name (venv-name) python=edition
 ### Open Terminal (Ubuntu Linux)
     conda create --name (venv-name) python=edition
-### Ex.
+### Example of creating virtual environment (venv)
     conda create --name deeplearning python=3.7
 ### Activate virtual environment
     conda activate (venv-name)
