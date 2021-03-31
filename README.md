@@ -6,4 +6,4 @@
 If you want to run on your pc with camera, please click [here](https://github.com/KevinTsaiCodes/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-Workshop/blob/main/PC%20Base/README.md) to continue.
 
 ## Android APP
-If you want to run on your pc with camera, please click [here](https://github.com/KevinTsaiCodes/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-Workshop/tree/main/Android%20APP) to continue. [updating]
+If you want to run on your pc with camera, please click [here](https://github.com/KevinTsaiCodes/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-Workshop/tree/main/Android%20APP) to continue. [Updating]
