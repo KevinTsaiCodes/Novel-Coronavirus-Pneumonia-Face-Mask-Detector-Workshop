@@ -24,8 +24,16 @@
 ### Go to the directory
     cd [path]/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-Workshop/PC Base
 ### Install the requirements
+#### python 3
+    pip3 install -r requirements.txt
+#### python 2    
     pip install -r requirements.txt
 ### Notice for tensorflow gpu edition installation
    If your
 ### End of installation
    Now, you have installed all the required packages of this repository. All you need to do is execute the program of this repository.
+### Run the program
+#### python 3
+    python3 detect.py
+#### python 2
+    python detect.py
