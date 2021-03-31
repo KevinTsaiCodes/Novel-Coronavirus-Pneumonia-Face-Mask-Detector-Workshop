@@ -36,8 +36,6 @@
     pip3 install -r requirements.txt
 #### python 2    
     pip install -r requirements.txt
-### Notice for tensorflow gpu edition installation
-   If your
 ### End of installation
    Now, you have installed all the required packages of this repository. All you need to do is execute the program of this repository.
 ### Run the program
