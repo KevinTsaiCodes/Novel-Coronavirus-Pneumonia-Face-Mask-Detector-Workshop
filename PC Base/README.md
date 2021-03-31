@@ -24,6 +24,14 @@
 ### Go to the directory
     cd [path]/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-Workshop/PC Base
 ### Install the requirements
+### If you have GPU on your PC
+    cd On CPU
+#### python 3
+    pip3 install -r requirements.txt
+#### python 2    
+    pip install -r requirements.txt
+### If you don't have GPU on your PC
+    cd On GPU
 #### python 3
     pip3 install -r requirements.txt
 #### python 2    
