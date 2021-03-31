@@ -1,1 +1,2 @@
-this repo contain 2 tensorflow lite model (SSDLite Mobilenet V2 & SSD Mobilenet V2 FPNLite) which trained with face mask dataset using Tensorflow object detection API v1 and v2 on PC with GPU Gtx1060 6GB.
+## Information
+  This repo contain 2 tensorflow lite model (SSDLite Mobilenet V2 & SSD Mobilenet V2 FPNLite) which trained with face mask dataset using Tensorflow object detection API v1 and v2 on PC with GPU Gtx1060 6GB.
