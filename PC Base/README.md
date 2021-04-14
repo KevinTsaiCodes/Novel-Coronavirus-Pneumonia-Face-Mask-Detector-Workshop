@@ -39,7 +39,9 @@
 ### End of installation
    Now, you have installed all the required packages of this repository. All you need to do is execute the program of this repository.
 ### Run the program
-   Remember to change the path to [path]/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-Workshop/PC Base
+   Remember to change the path to 
+    
+    [path]/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-Workshop/PC Base
 #### python 3
     python3 detect.py
 #### python 2
